@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="t">
+<title id="t">Data JT</title>
+<defs><clipPath id="c"><rect width="1200" height="320" rx="12"/></clipPath></defs>
+<g clip-path="url(#c)">
+<rect width="1200" height="320" rx="12" fill="#1c3657"/>
+<g transform="translate(1082.7 80.0)">
+<rect x="-160.0" y="-53.3" width="107.2" height="107.2" fill="#75576b"/>
+<rect x="-54.1" y="-53.3" width="107.2" height="107.2" fill="#943f4a"/>
+<rect x="52.5" y="-53.3" width="107.2" height="107.2" fill="#b42828"/>
+<rect x="-54.1" y="-160.0" width="107.2" height="107.2" fill="#a43439"/>
+<rect x="-160.0" y="159.2" width="107.2" height="107.2" fill="#556e8d"/>
+<rect x="-266.7" y="52.6" width="107.2" height="107.2" fill="#457a9e"/>
+<rect x="-160.0" y="52.6" width="107.2" height="107.2" fill="#65637c"/>
+<rect x="-54.1" y="52.6" width="107.2" height="107.2" fill="#844b5b"/>
+</g>
+<g transform="translate(88.00 106.51) scale(0.86739)">
+<rect x="30.89" y="30.89" width="30.89" height="30.89" fill="#75576b"/>
+<rect x="61.56" y="30.89" width="30.89" height="30.89" fill="#943f4a"/>
+<rect x="92.44" y="30.89" width="30.89" height="30.89" fill="#b42828"/>
+<rect x="61.56" y="0.0" width="30.89" height="30.89" fill="#a43439"/>
+<rect x="30.89" y="92.44" width="30.89" height="30.89" fill="#556e8d"/>
+<rect x="0.0" y="61.56" width="30.89" height="30.89" fill="#457a9e"/>
+<rect x="30.89" y="61.56" width="30.89" height="30.89" fill="#65637c"/>
+<rect x="61.56" y="61.56" width="30.89" height="30.89" fill="#844b5b"/>
+<rect x="522.66" y="22.7" width="24.81" height="24.81" fill="#ffffff"/>
+<rect x="637.78" y="10.11" width="30.89" height="30.89" fill="#b42828"/>
+<path fill="#ffffff" d="M224.51,67.07c0,26-19,44.53-45.9,44.53h-36V22.7h36C205.53,22.7,224.51,41.1,224.51,67.07Zm-25.11,0c0-13.18-8.78-21.94-21.94-21.94H167.23v44h10.23C190.62,89.17,199.4,80.19,199.4,67.07Z"/>
+<path fill="#ffffff" d="M287,97.16H255.48l-4.92,14.44H224.31l34.92-88.9h23.94l35.69,88.9h-27Zm-15.8-46.71L261.45,78H281Z"/>
+<path fill="#ffffff" d="M385.07,44.75H360.92V111.6h-24.6V44.75H312.17v-22h72.9Z"/>
+<path fill="#ffffff" d="M441,97.16H409.53l-4.92,14.44H378.36l34.92-88.9h23.94l35.69,88.9h-27Zm-15.8-46.71L415.49,78h19.57Z"/>
+<path fill="#ffffff" d="M502.9,81.12v-3.5h24.67v2.25c0,6.8,4,11.18,10.09,11.18,5.79,0,9.8-4.31,9.8-11.18V22.7h24.67V81.12c0,19.26-13.87,32.73-34.47,32.73C517.21,113.85,502.9,100.44,502.9,81.12Z"/>
+<path fill="#ffffff" d="M655.17,44.75H631V111.6h-24.6V44.75H582.27v-22h72.9Z"/>
+</g>
+</g>
+</svg>
